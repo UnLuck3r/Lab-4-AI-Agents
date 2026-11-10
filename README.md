@@ -121,3 +121,8 @@ rm -f agent_log.jsonl && python tests.py
 }
 
 ```
+## 📊 Cкриншоты
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/205b5fe0-f079-4981-953b-5e93d2c15133" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66cb3d9a-91fc-4f12-af95-7e285666baaa" />
+
+
